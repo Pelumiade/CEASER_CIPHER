@@ -1,4 +1,4 @@
-message = input("enter the message you want to decode: ")
+message = input("enter the message you want to encode: ")
 shift = int(input("enter the shift value: "))
 shift_direction = input("Please enter the shift direction (Enter 'F' for forward, 'B' for backward): ")
 
