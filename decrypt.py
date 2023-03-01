@@ -30,7 +30,4 @@ def decrypt_message(message, shift, shift_direction):
             
     return result + result_figure
 
-# A Banking app, 
-#
-
 print(decrypt_message(message, shift, shift_direction))
