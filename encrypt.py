@@ -33,5 +33,4 @@ def decrypt_message(message, shift, shift_direction):
             result += letter
             
     return result + result_figure
-
 print(decrypt_message(message, shift, shift_direction))
